@@ -72,9 +72,3 @@ Integrate more robust error correction techniques for higher data reliability.
 
 Expand the project to support MIMO systems for enhanced data throughput.
 
-Authors
-Haripriya Rao M
-
-Hamsini Reddy K S
-
-Kiran P S
